@@ -7,4 +7,5 @@ catboost
 scipy
 xgboost
 joblib
+dill
 #-e .
